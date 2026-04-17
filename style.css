@@ -1,0 +1,13 @@
+body {
+    background-color: #c7ecee;
+    font-family: verdana, sans-serif;
+    color: #686de0;
+}
+
+h1 {
+    color: #30336b;
+}
+
+canvas {
+    border: solid 5px #6ab04c;
+}
